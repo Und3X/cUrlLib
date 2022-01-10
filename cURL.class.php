@@ -2,8 +2,8 @@
 /*
     cURL lib by Und3X
     Site: https://und3x.ru/
-    Git: https://github.com/UndeXProject
-    Repository: https://github.com/UndeXProject/cUrlLib
+    Git: https://github.com/Und3X
+    Repository: https://github.com/Und3X/cUrlLib
 */
 
 class cUrlLib {
@@ -22,32 +22,31 @@ class cUrlLib {
     );
     public $REF_LIST = array(
         "http://www.google.com/",
-		"http://pastebin.com",
-		"http://www.yandex.ru/",
-		"http://www.yahoo.com/",
-		"http://www.youtube.ru/",
-		"http://www.carderlife.ms/",
-		"http://www.hacker-pro.net/",
-		"http://www.host-tracker.com/",
-		"http://www.forum.antichat.ru/",
-		"http://www.lenta.ru/",
-		"http://www.wikpedia.org/",
-		"http://www.mail.ru/",
-		"http://www.vkontakte.ru/",
-		"http://www.upyachka.ru/",
-		"http://www.2ip.ru/",
-		"http://www.webmoney.ru/",
-		"http://www.live.com/",
-		"http://www.libertyreserve.com/",
-		"http://www.ebay.com/",
-		"http://www.microsoft.com/",
-		"http://www.ninemsn.com/",
-		"http://oce.leagueoflegends.com/",
-		"http://aftamat4ik.ru/",
-		"http://vk.com/",
-		"http://facebook.com/",
-		"http://twitter.com/",
-		"https://www.dropbox.com/"
+	"http://pastebin.com",
+	"http://www.yandex.ru/",
+	"http://www.yahoo.com/",
+	"http://www.youtube.ru/",
+	"http://www.carderlife.ms/",
+	"http://www.hacker-pro.net/",
+	"http://www.host-tracker.com/",
+	"http://www.forum.antichat.ru/",
+	"http://www.lenta.ru/",
+	"http://www.wikpedia.org/",
+	"http://www.mail.ru/",
+	"http://www.vkontakte.ru/",
+	"http://www.upyachka.ru/",
+	"http://www.2ip.ru/",
+	"http://www.webmoney.ru/",
+	"http://www.live.com/",
+	"http://www.libertyreserve.com/",
+	"http://www.ebay.com/",
+	"http://www.microsoft.com/",
+	"http://www.ninemsn.com/",
+	"http://oce.leagueoflegends.com/",
+	"http://vk.com/",
+	"http://facebook.com/",
+	"http://twitter.com/",
+	"https://www.dropbox.com/"
     );
 
     // Private variables
